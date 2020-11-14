@@ -1,6 +1,6 @@
 ---
-title: 'tech'
-date: 2018-11-14T19:02:50-07:00
+title: tech
+date: 2018-11-15 02:02:50 Z
 draft: false
 ---
 
